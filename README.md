@@ -1,1 +1,10 @@
-С использованием конфигурационного Config.java файла.
+Проект с применением REST API 
+
+Использовались: 
+@ControllerAdvice
+@ExceptionHandler
+@RestController
+@RequestMapping ...
+
+
+На основе конфигурационного Config.java файла.
