@@ -6,7 +6,7 @@
 @RestController
 @RequestMapping ...
 
-POST http запросы можно посылать с помщью приложения Postman.
+POST http запросы можно посылать с помощью приложения Postman.
 
 
 На основе конфигурационного Config.java файла.
